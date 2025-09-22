@@ -327,5 +327,36 @@
       },
       "visitId": "mfm1sff0-iak25i"
     }
+  ],
+  "1758383764059-SequencingPreOrPostTestRollup_SCORM20043rdEdition": [
+    {
+      "packageId": "1758383764059-SequencingPreOrPostTestRollup_SCORM20043rdEdition",
+      "timestamp": 1758383770922,
+      "version": "2004",
+      "data": {
+        "cmi.location": "0"
+      },
+      "visitId": "mfsgamri-j901yg"
+    },
+    {
+      "packageId": "1758383764059-SequencingPreOrPostTestRollup_SCORM20043rdEdition",
+      "timestamp": 1758383771722,
+      "version": "2004",
+      "data": {
+        "cmi.location": "0"
+      },
+      "visitId": "mfsgamri-j901yg"
+    },
+    {
+      "packageId": "1758383764059-SequencingPreOrPostTestRollup_SCORM20043rdEdition",
+      "timestamp": 1758383781297,
+      "version": "2004",
+      "data": {
+        "cmi.location": "0",
+        "cmi.session_time": "PT10.36S",
+        "cmi.exit": "suspend"
+      },
+      "visitId": "mfsgamri-j901yg"
+    }
   ]
 }

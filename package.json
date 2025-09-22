@@ -7,6 +7,7 @@
     "server": "node server.js",
     "dev": "concurrently \"npm:server\" \"npm:start\"",
     "build": "ng build",
+    "vercel-build": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
